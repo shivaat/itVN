@@ -7,5 +7,4 @@ For explanation and the details refer to this paper:
 
 >Shiva Taslimipoor, Anna Desantis, Manuela Cherchi, Ruslan Mitkov, Johanna Monti: 
 Language resources for Italian: towards the development of a corpus of annotated Italian multiword expressions, 
-in proceedings of Third Italian Conference on Computational Linguistics (CLiC-it 2016) & Fifth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian 
-(EVALITA 2016), Naples, Italy, 2016.
+in proceedings of *Third Italian Conference on Computational Linguistics (CLiC-it 2016) & Fifth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian (EVALITA 2016)*, Naples, Italy, 2016.
